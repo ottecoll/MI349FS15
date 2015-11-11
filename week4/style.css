@@ -1,0 +1,82 @@
+header, section {
+  padding: 0 20px;
+}
+header {
+  font-family: serif;
+  font-size: 36px;
+  text-align: right;
+  color: white;
+  background-color: #0FC;
+  overflow: auto;
+}
+header p {
+  font-family: sans-serif;
+  font-size: 18px;
+  text-align: right;
+}
+section {
+  background-color: #ECE6E6;
+  color: #005;
+  overflow: auto;
+}
+section p {
+  text-align: right;
+  font-family: sans-serif;
+  color: #009DFF;
+}
+
+section h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #0FC;
+}
+
+}
+.personas {
+  padding: 0;
+  text-align: center;
+}
+.personas li {
+  vertical-align: top;
+  width: 30%;
+  list-style: none;
+  display: inline-block;
+
+}
+.personas img {
+  width: 100%;
+}
+
+.personas h3 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #0FC;
+}
+
+.personas p {
+  color: #0FC;
+}
+
+.comps {
+  padding: 0;
+  text-align: center;
+}
+.comps li {
+  vertical-align: top;
+  width: 30%;
+  list-style: none;
+  display: inline-block;
+}
+.comps img {
+  width: 70%;
+}
+section h4 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #009DFF;
+}
+.comps h5 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #009DFF;
+}
