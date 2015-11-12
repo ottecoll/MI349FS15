@@ -1,0 +1,23 @@
+header {
+  font-size: 36px;
+  font-weight: bold;
+}
+h1 {
+  font-size: 24px;
+}
+div {
+  display: inline-block;
+}
+.column1 {
+  float:left;
+  margin:0;
+  width:67%;
+}
+.column2 {
+  float:left;
+  margin:0;
+  width:33%;
+}
+img {
+  width: 100%;
+}
